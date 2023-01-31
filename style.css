@@ -323,19 +323,19 @@ nav .fas{
     #header{
         
         background-image: url(./images/pngaaa.com-4842391.png);
-        width:  50%;
+        width:  30%;
         margin-left: 0px;
     }
  
     .header-text{
-        width: 200px;
+        width: 250px;
         margin-top: 114px;
         font-size: 18px;
-        margin-left: 150px;
+        margin-left: 100px;
         
     }
     .header-text h1{
-        font-size: 30px;
+        font-size: 20px;
     }
     nav .fas{
         display: block;
